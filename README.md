@@ -1,7 +1,4 @@
-# Credit-Card-Financial-Analysis
-# 🚀 Credit Card Financial Dashboard  
-
-![Credit Card Icon](https://img.icons8.com/ios-filled/50/000000/credit-card.png) ![Analytics Icon](https://img.icons8.com/ios-filled/50/000000/data-analytics.png) ![Finance Icon](https://img.icons8.com/ios-filled/50/000000/financial-growth-analysis.png)
+# 🚀💳 Credit Card Financial Dashboard  
 
 ## 📌 Overview  
 The **Credit Card Financial Dashboard** is a **Power BI-driven analytics tool** designed to **track customer transactions, revenue trends, and financial performance**. This project integrates **SQL** for data storage and **DAX functions** for advanced calculations, offering stakeholders a **clear visualization of key financial metrics**.
