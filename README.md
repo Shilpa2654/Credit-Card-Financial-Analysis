@@ -9,7 +9,7 @@ This project aims to develop an **interactive credit card analytics dashboard** 
 ---
 
 ## 📂 Datasets  
-### 📜 1. Customer Data (- <a href="https://github.com/Shilpa2654/Credit-Card-Financial-Analysis/blob/main/customer.csv">Credit card data</a>)  
+### 📜 1. Customer Data (- <a href="https://github.com/Shilpa2654/Credit-Card-Financial-Analysis/blob/main/customer.csv">Customer data</a>)  
 - 🧑‍💼 **Demographics**: Age, Gender, Education, Marital Status  
 - 💰 **Financials**: Income, House/Car Ownership, Personal Loans  
 - 📞 **Customer Experience**: Contact Method, Satisfaction Score  
