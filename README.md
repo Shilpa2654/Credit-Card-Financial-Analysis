@@ -22,6 +22,10 @@ This project aims to develop an **interactive credit card analytics dashboard** 
 
 ---
 
+- <a href="https://youtu.be/Y9BOzIyfxQM">YouTube</a>
+
+---
+
 ## ❓ Key Questions Analyzed  
 ✅ **Which card category generates the highest revenue?**  
 ✅ **How does income level affect spending behavior?**  
